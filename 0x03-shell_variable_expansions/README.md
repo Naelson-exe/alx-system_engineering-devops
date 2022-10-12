@@ -1,2 +1,2 @@
-This directory contains information on shell variable expansions
-Scripts showing examples as well
+This is a list of basic shell commands
+I am following instructions to the best of my ability
